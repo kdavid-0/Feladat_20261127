@@ -1,2 +1,2 @@
-Kollabolátort adok majd a Repo-hoz
-Második bekezdés
+# Kollabolátort adok majd a Repo-hoz
+# Második bekezdés
